@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @oliverdann7
 - 👀 I’m interested in books, languages and people
-- 🌱 I’m currently learning German and Persian
-- 💞️ I’m looking to collaborate on testing 
 - 📫 How to reach me > Insta: @oliverdann
 
 <!---
